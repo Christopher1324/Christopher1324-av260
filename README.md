@@ -6,7 +6,8 @@ Meu nome é christopher fehlauer
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 ### Você pode entrar em contato comigo :mailbox
 
-christopher.fehlauer@escola.pr.gov.br@christopher.fehlauer
+christopher.fehlauer@escola.pr.gov.br
+@christopher.fehlauer
 ### Boas vindas ao meu perfil :blue_heart
 
 Meu nome é christopher fehlauer
